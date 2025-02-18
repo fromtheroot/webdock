@@ -8,4 +8,5 @@ ehthumbs.db
 Thumbs.db
 
 # www directory contents
-www/* 
+www/*
+!www/index.html 
